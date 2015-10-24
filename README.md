@@ -11,7 +11,7 @@
 	* 褚丹凤：
 	* 汪 超：
 * Software：
-	* cocos2d-x 3.8
+	* cocos2d-x 3.3 rc0
 * platform：
 	* Android
 	* IOS
